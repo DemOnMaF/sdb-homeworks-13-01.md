@@ -82,12 +82,25 @@ https://www.exploit-db.com/exploits/15449
 <details>
 <summary>Ответ</summary>
 
-```sql
 
 
-```
+![image](img/02.1.png)
 
-![image](img/02.png)
+---
+
+
+![image](img/02.2.png)
+
+---
+
+
+![image](img/02.3.png)
+
+---
+
+
+![image](img/02.4.png)
+
 
 </details>
 
