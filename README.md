@@ -52,8 +52,14 @@
 <details>
 <summary>Ответ</summary>
 
+https://www.exploit-db.com/exploits/17491
+![image](img/01.2.1.png)
 
-![image](img/01.2.png)
+https://www.exploit-db.com/exploits/37721
+![image](img/01.2.2.png)
+
+https://www.exploit-db.com/exploits/15449
+![image](img/01.2.3.png)
 
 </details>
 
